@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb/base",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": false,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "no-tabs": 0,
+    "indent": ["error", "tab"],
+  }
+}
