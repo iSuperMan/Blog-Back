@@ -16,5 +16,6 @@
         "allowAfterThis": true
       }
     ],
+    "func-names": ["error", "never"],
   }
 }
