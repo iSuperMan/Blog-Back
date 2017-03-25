@@ -17,5 +17,12 @@
       }
     ],
     "func-names": ["error", "never"],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsFor": ["req", "res"]
+      }
+    ]
   }
 }
