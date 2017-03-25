@@ -1,5 +1,6 @@
 {
 	"port": 8080,
+	"secretToken": "",
 	"mongoose":{
 		"uri": "mongodb://localhost/blog",
 		"options": {
