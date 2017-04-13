@@ -21,7 +21,7 @@
       "error",
       {
         "props": true,
-        "ignorePropertyModificationsFor": ["req", "res"]
+        "ignorePropertyModificationsFor": ["req", "res", "ret"]
       }
     ],
     "no-shadow": ["error", { "allow": ["err"] }],
